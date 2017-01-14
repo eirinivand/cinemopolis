@@ -9,7 +9,7 @@ import renee.cinemopolis.model.Date;
 import renee.cinemopolis.model.Movie;
 import renee.cinemopolis.model.Seat;
 
-@Generated(value="EclipseLink-2.5.2.v20140319-rNA", date="2017-01-14T18:59:49")
+@Generated(value="EclipseLink-2.5.2.v20140319-rNA", date="2017-01-14T21:55:25")
 @StaticMetamodel(ProjectionRoom.class)
 public class ProjectionRoom_ { 
 
