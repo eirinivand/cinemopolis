@@ -1,0 +1,10 @@
+renee\service\MovieFacadeREST.class
+renee\service\SeatFacadeREST.class
+renee\service\MemberFacadeREST.class
+renee\service\TicketFacadeREST.class
+renee\service\WishlistFacadeREST.class
+renee\service\DateFacadeREST.class
+renee\service\ApplicationConfig.class
+renee\service\CinemaFacadeREST.class
+renee\service\ProjectionRoomFacadeREST.class
+renee\service\AbstractFacade.class
